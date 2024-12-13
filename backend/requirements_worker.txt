@@ -17,5 +17,5 @@ redis
 scipy==1.8.1
 SQLAlchemy==1.4.41
 sqlmodel==0.0.8
-starlette==0.25.0
+starlette==0.27.0
 uvicorn==0.20.0
